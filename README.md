@@ -14,7 +14,7 @@ This project demonstrates the use of a watchdog timer on an Arduino to handle sy
 - Connecting wires
 
 ## Circuit Diagram
-![Circuit Diagram](arduino_watchdog_setup.png)
+![arduino_watchdog_setup png](https://github.com/user-attachments/assets/1d7a94cf-aef6-4903-a018-4a29fff344d2)
 
 ## Setup
 1. Connect the components as shown in the circuit diagram.
@@ -29,6 +29,3 @@ This project demonstrates the use of a watchdog timer on an Arduino to handle sy
 1. Power the Arduino.
 2. Observe the LED behavior.
 3. The system will reset if it hangs, and the state will be restored from EEPROM.
-
-## License
-This project is open-source and available under the MIT License.
